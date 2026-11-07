@@ -1,0 +1,18 @@
+# 제3자 저작물과 그 파생 데이터 (재배포하지 않음)
+*.pdf
+oxford3000_raw.txt
+cache/
+words.json
+extras.csv
+review.csv
+oxford3000.md
+oxford3000.html
+
+# 실행 로그
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
